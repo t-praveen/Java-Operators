@@ -1,3 +1,5 @@
+//Ternary Operator Example 2//
+
 package operators;
 
 public class Ternary2 {
