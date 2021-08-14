@@ -1,7 +1,7 @@
 //All Arithmetic operators included program//
   
 package operators; 
-public class AllOperators { 
+public class AllOperators {  
 
     public static void main(String[] args) {
 
