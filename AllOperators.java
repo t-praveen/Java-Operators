@@ -1,5 +1,5 @@
 //All Arithmetic operators included program//
- 
+  
 package operators;
 public class AllOperators { 
 
