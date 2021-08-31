@@ -11,7 +11,7 @@ public class AllOperators {
         System.out.println("previousResult =  " + previousResult);
         result = result - 1;    // 3 - 1 = 2 
         System.out.println("3 - 1 = " + result);
-        System.out.println("previousResult =  " + previousResult);
+        System.out.println("previousResult =  " + previousResult); 
 
         result = result * 10;   // 2 * 10 = 20 
         System.out.println("2 * 10 = " + result);
